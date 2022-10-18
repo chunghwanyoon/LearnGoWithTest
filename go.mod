@@ -1,4 +1,4 @@
-module hello
+module LearnGoWithTesting
 
 go 1.18
 
