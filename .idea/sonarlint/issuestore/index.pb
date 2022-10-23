@@ -11,5 +11,5 @@ F
 integers/adder_test.go,3/1/3127f27833572538a21f3b4aa63478859499def3
 A
 integers/adder.go,e/f/ef76cb63b2344f900dabae8fbc5c8928d87d3e5c
-6
-go.mod,c/4/c47645c391ad0571c40779079363c9d48412e18b
+V
+&structs_methods_interfaces/triangle.go,f/c/fc246e3e3f3fb0339eb841834e6895e3ad2ec5b8
