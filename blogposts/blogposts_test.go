@@ -2,7 +2,7 @@ package blogposts_test
 
 import (
 	"errors"
-	blogposts "github.com/chunghwanyoon/blogposts"
+	"github.com/chunghwanyoon/blogposts"
 	"io/fs"
 	"reflect"
 	"testing"
